@@ -13,7 +13,7 @@ Berikut Foto original sebelum diklusterisasi
 ![image](/img/foto1.jpeg)
 
 
-Berikut hasil foto yang sudah mengalami perubahan sebanyak 4 kali ini bergantung pada script ` k =`
+Berikut hasil foto yang sudah mengalami perubahan sebanyak 7 kali ini bergantung pada script ` k =`
 
 ### Segmented image
 
