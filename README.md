@@ -3,6 +3,15 @@
 
 Kali ini kita akan klusterisasi sebuah foto atau gambar dengan algoritma KMeans.
 
+sebelumnya kita berkenalan terlebih dahulu dengan KMeans
+
+K-Means adalah salah satu algoritma clustering yang paling populer dalam analisis data. Tujuannya adalah untuk mengelompokkan data ke dalam k kelompok berdasarkan atribut yang mirip. Algoritma ini bekerja dengan cara mengiterasi antara dua langkah utama:
+
+Assign: Mengatribusikan setiap titik data ke kelompok yang paling dekat dengannya berdasarkan nilai rata-rata (centroid) kelompok tersebut.
+
+Update: Memperbarui posisi centroid untuk setiap kelompok dengan menghitung nilai rata-rata dari semua titik data yang telah diatribusikan ke kelompok tersebut.
+
+Iterasi ini terus berlanjut hingga tidak ada perubahan signifikan dalam atribusi titik data ke kelompok atau posisi centroid. K-Means biasanya digunakan untuk analisis cluster di mana jumlah kelompok (k) telah ditentukan sebelumnya.
 dalam script `kmean.py` akan menjalankan klusterisasi dalam beberapa kali tergantung
 apa yang kita masukan pada bagian
 `k = 7`
