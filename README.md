@@ -12,7 +12,9 @@ Assign: Mengatribusikan setiap titik data ke kelompok yang paling dekat denganny
 Update: Memperbarui posisi centroid untuk setiap kelompok dengan menghitung nilai rata-rata dari semua titik data yang telah diatribusikan ke kelompok tersebut.
 
 Iterasi ini terus berlanjut hingga tidak ada perubahan signifikan dalam atribusi titik data ke kelompok atau posisi centroid. K-Means biasanya digunakan untuk analisis cluster di mana jumlah kelompok (k) telah ditentukan sebelumnya.
-dalam script `kmean.py` akan menjalankan klusterisasi dalam beberapa kali tergantung
+
+
+Pada script `kmean.py` akan menjalankan klusterisasi dalam beberapa kali tergantung
 apa yang kita masukan pada bagian
 `k = 7`
 
